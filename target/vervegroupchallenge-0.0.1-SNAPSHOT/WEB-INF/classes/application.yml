@@ -1,0 +1,13 @@
+server:
+  port: 8080
+
+spring:
+  redis:
+    host: localhost
+    port: 6379
+
+external:
+  http:
+    timeout: 5000
+kafka:
+  topic: my-kafka-topic
