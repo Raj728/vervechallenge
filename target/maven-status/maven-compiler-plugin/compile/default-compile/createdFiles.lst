@@ -1,0 +1,6 @@
+com\technicalchallenge\service\RequestService.class
+com\technicalchallenge\config\RedisConfig.class
+com\technicalchallenge\util\KafkaProducerUtil.class
+com\technicalchallenge\model\ApiResponse.class
+com\technicalchallenge\controller\RequestController.class
+com\technicalchallenge\VervegroupchallengeApplication.class
